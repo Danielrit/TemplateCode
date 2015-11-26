@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 
 <workspace>
+  <project>
+    <path>$WS_DIR$\Lab1\Lab1.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Lab2\Lab2.ewp</path>
+  </project>
   <batchBuild/>
 </workspace>
 
